@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Boss\\.nuget\\packages\\microsoft.aspnetcore.components.webview\\10.0.0\\staticwebassets\\blazor.modules.json",
+      "PackagePath": "staticwebassets\\_framework\\blazor.modules.json"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\.nuget\\packages\\microsoft.aspnetcore.components.webview\\10.0.0\\staticwebassets\\blazor.webview.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webview.js"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\obj\\Debug\\net10.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\Site.styles.css",
+      "PackagePath": "staticwebassets\\Site.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\App.css",
+      "PackagePath": "staticwebassets\\App.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\App.jsx",
+      "PackagePath": "staticwebassets\\App.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\20110-B4xI8tfZ.jpg",
+      "PackagePath": "staticwebassets\\assets\\20110-B4xI8tfZ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\20110.jpg",
+      "PackagePath": "staticwebassets\\assets\\20110.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\2172.jpg",
+      "PackagePath": "staticwebassets\\assets\\2172.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\25887.jpg",
+      "PackagePath": "staticwebassets\\assets\\25887.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\5230.jpg",
+      "PackagePath": "staticwebassets\\assets\\5230.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Cursor\\cursor.png",
+      "PackagePath": "staticwebassets\\assets\\Cursor\\cursor.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\account.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\account.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\account_hover.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\account_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\account_hover_white.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\account_hover_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\account_white.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\account_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\cart.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\cart_hover.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\cart_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\cart_white.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\cart_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\cart_white_hover.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\cart_white_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\menu.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\menu_hover.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\menu_hover.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\menu_hover_white.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\menu_hover_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\menu_white.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\menu_white.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\site.svg",
+      "PackagePath": "staticwebassets\\assets\\Icons\\site.svg"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\social\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\social\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\social\\instagram.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\social\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\social\\max.svg",
+      "PackagePath": "staticwebassets\\assets\\Icons\\social\\max.svg"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\social\\odnokl.svg",
+      "PackagePath": "staticwebassets\\assets\\Icons\\social\\odnokl.svg"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\social\\telegram.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\social\\telegram.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\social\\twitter.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\social\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Icons\\social\\vk.png",
+      "PackagePath": "staticwebassets\\assets\\Icons\\social\\vk.png"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Restoraunt_Photos\\10724.jpg",
+      "PackagePath": "staticwebassets\\assets\\Restoraunt_Photos\\10724.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Restoraunt_Photos\\3394.jpg",
+      "PackagePath": "staticwebassets\\assets\\Restoraunt_Photos\\3394.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Restoraunt_Photos\\391.jpg",
+      "PackagePath": "staticwebassets\\assets\\Restoraunt_Photos\\391.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\Restoraunt_Photos\\927.jpg",
+      "PackagePath": "staticwebassets\\assets\\Restoraunt_Photos\\927.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\index-7clS2T4x.css",
+      "PackagePath": "staticwebassets\\assets\\index-7clS2T4x.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\assets\\index-IVP7Q_XW.js",
+      "PackagePath": "staticwebassets\\assets\\index-IVP7Q_XW.js"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\About\\About.css",
+      "PackagePath": "staticwebassets\\components\\About\\About.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\About\\About.jsx",
+      "PackagePath": "staticwebassets\\components\\About\\About.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Account\\Account.css",
+      "PackagePath": "staticwebassets\\components\\Account\\Account.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Account\\Account.jsx",
+      "PackagePath": "staticwebassets\\components\\Account\\Account.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Account\\Registration\\Registration.css",
+      "PackagePath": "staticwebassets\\components\\Account\\Registration\\Registration.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Account\\Registration\\Registration.jsx",
+      "PackagePath": "staticwebassets\\components\\Account\\Registration\\Registration.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\BigFooter\\BigFooter.css",
+      "PackagePath": "staticwebassets\\components\\BigFooter\\BigFooter.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\BigFooter\\BigFooter.jsx",
+      "PackagePath": "staticwebassets\\components\\BigFooter\\BigFooter.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Cart\\Cart.css",
+      "PackagePath": "staticwebassets\\components\\Cart\\Cart.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Cart\\Cart.jsx",
+      "PackagePath": "staticwebassets\\components\\Cart\\Cart.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Cart\\Item.css",
+      "PackagePath": "staticwebassets\\components\\Cart\\Item.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Cart\\Item.jsx",
+      "PackagePath": "staticwebassets\\components\\Cart\\Item.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Find\\Find.css",
+      "PackagePath": "staticwebassets\\components\\Find\\Find.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Find\\Find.jsx",
+      "PackagePath": "staticwebassets\\components\\Find\\Find.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Footer\\Footer.css",
+      "PackagePath": "staticwebassets\\components\\Footer\\Footer.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Footer\\Footer.jsx",
+      "PackagePath": "staticwebassets\\components\\Footer\\Footer.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Good\\Good.css",
+      "PackagePath": "staticwebassets\\components\\Good\\Good.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Good\\Good.jsx",
+      "PackagePath": "staticwebassets\\components\\Good\\Good.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Halfs\\Halfs.css",
+      "PackagePath": "staticwebassets\\components\\Halfs\\Halfs.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Halfs\\Halfs.jsx",
+      "PackagePath": "staticwebassets\\components\\Halfs\\Halfs.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Header\\Header.css",
+      "PackagePath": "staticwebassets\\components\\Header\\Header.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Header\\Header.jsx",
+      "PackagePath": "staticwebassets\\components\\Header\\Header.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Header_black\\Header_black.css",
+      "PackagePath": "staticwebassets\\components\\Header_black\\Header_black.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Header_black\\Header_black.jsx",
+      "PackagePath": "staticwebassets\\components\\Header_black\\Header_black.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Main\\Main.css",
+      "PackagePath": "staticwebassets\\components\\Main\\Main.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Main\\Main.jsx",
+      "PackagePath": "staticwebassets\\components\\Main\\Main.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\MapComponent\\MapComponent.jsx",
+      "PackagePath": "staticwebassets\\components\\MapComponent\\MapComponent.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Menu\\Menu.css",
+      "PackagePath": "staticwebassets\\components\\Menu\\Menu.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Menu\\Menu.jsx",
+      "PackagePath": "staticwebassets\\components\\Menu\\Menu.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Menu_comp\\Menu_comp.css",
+      "PackagePath": "staticwebassets\\components\\Menu_comp\\Menu_comp.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Menu_comp\\Menu_comp.jsx",
+      "PackagePath": "staticwebassets\\components\\Menu_comp\\Menu_comp.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Orders\\Order.css",
+      "PackagePath": "staticwebassets\\components\\Orders\\Order.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Orders\\Order.jsx",
+      "PackagePath": "staticwebassets\\components\\Orders\\Order.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Orders\\OrderItem.css",
+      "PackagePath": "staticwebassets\\components\\Orders\\OrderItem.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Orders\\OrderItem.jsx",
+      "PackagePath": "staticwebassets\\components\\Orders\\OrderItem.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Orders\\Orders.css",
+      "PackagePath": "staticwebassets\\components\\Orders\\Orders.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Orders\\Orders.jsx",
+      "PackagePath": "staticwebassets\\components\\Orders\\Orders.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Pages\\Pages.css",
+      "PackagePath": "staticwebassets\\components\\Pages\\Pages.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Pages\\Pages.jsx",
+      "PackagePath": "staticwebassets\\components\\Pages\\Pages.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Reviews\\Reviews.css",
+      "PackagePath": "staticwebassets\\components\\Reviews\\Reviews.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Reviews\\Reviews.jsx",
+      "PackagePath": "staticwebassets\\components\\Reviews\\Reviews.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Swiper\\MenuComps\\MenuComps.css",
+      "PackagePath": "staticwebassets\\components\\Swiper\\MenuComps\\MenuComps.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Swiper\\MenuComps\\MenuComps.jsx",
+      "PackagePath": "staticwebassets\\components\\Swiper\\MenuComps\\MenuComps.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\Swiper\\Slider\\Slider.jsx",
+      "PackagePath": "staticwebassets\\components\\Swiper\\Slider\\Slider.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\TwoBut\\TwoBut.css",
+      "PackagePath": "staticwebassets\\components\\TwoBut\\TwoBut.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\components\\TwoBut\\TwoBut.jsx",
+      "PackagePath": "staticwebassets\\components\\TwoBut\\TwoBut.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\data\\BigFooter.js",
+      "PackagePath": "staticwebassets\\data\\BigFooter.js"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\data\\Halfs.js",
+      "PackagePath": "staticwebassets\\data\\Halfs.js"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\data\\Menu_comps.js",
+      "PackagePath": "staticwebassets\\data\\Menu_comps.js"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\data\\Reviews.js",
+      "PackagePath": "staticwebassets\\data\\Reviews.js"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\data\\TwoBut.js",
+      "PackagePath": "staticwebassets\\data\\TwoBut.js"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\favicon.svg",
+      "PackagePath": "staticwebassets\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\index.css",
+      "PackagePath": "staticwebassets\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\main.jsx",
+      "PackagePath": "staticwebassets\\main.jsx"
+    },
+    {
+      "Id": "C:\\Users\\Boss\\source\\repos\\Site\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.Site.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.Site.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.build.Site.props",
+      "PackagePath": "build\\Site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildMultiTargeting.Site.props",
+      "PackagePath": "buildMultiTargeting\\Site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net10.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildTransitive.Site.props",
+      "PackagePath": "buildTransitive\\Site.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
