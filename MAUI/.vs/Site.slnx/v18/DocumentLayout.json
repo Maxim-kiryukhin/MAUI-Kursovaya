@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Boss\\Desktop\\MAUI\\MAUI\\",
+  "WorkspaceRootPath": "C:\\Users\\Boss\\Desktop\\MAUI-Kursovaya-main\\MAUI-Kursovaya-main\\MAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBD78808-FB08-1F2F-F99D-7C263A34B276}|Site.csproj|c:\\users\\boss\\desktop\\maui\\maui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{EBD78808-FB08-1F2F-F99D-7C263A34B276}|Site.csproj|c:\\users\\boss\\desktop\\maui-kursovaya-main\\maui-kursovaya-main\\maui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EBD78808-FB08-1F2F-F99D-7C263A34B276}|Site.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBD78808-FB08-1F2F-F99D-7C263A34B276}|Site.csproj|c:\\users\\boss\\desktop\\maui\\maui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBD78808-FB08-1F2F-F99D-7C263A34B276}|Site.csproj|c:\\users\\boss\\desktop\\maui-kursovaya-main\\maui-kursovaya-main\\maui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBD78808-FB08-1F2F-F99D-7C263A34B276}|Site.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBD78808-FB08-1F2F-F99D-7C263A34B276}|Site.csproj|c:\\users\\boss\\desktop\\maui\\maui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EBD78808-FB08-1F2F-F99D-7C263A34B276}|Site.csproj|c:\\users\\boss\\desktop\\maui-kursovaya-main\\maui-kursovaya-main\\maui\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EBD78808-FB08-1F2F-F99D-7C263A34B276}|Site.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Boss\\Desktop\\MAUI\\MAUI\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Boss\\Desktop\\MAUI-Kursovaya-main\\MAUI-Kursovaya-main\\MAUI\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "C:\\Users\\Boss\\Desktop\\MAUI\\MAUI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Boss\\Desktop\\MAUI-Kursovaya-main\\MAUI-Kursovaya-main\\MAUI\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-24T14:10:04.556Z",
               "EditorCaption": ""
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Boss\\Desktop\\MAUI\\MAUI\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Boss\\Desktop\\MAUI-Kursovaya-main\\MAUI-Kursovaya-main\\MAUI\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Boss\\Desktop\\MAUI\\MAUI\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Boss\\Desktop\\MAUI-Kursovaya-main\\MAUI-Kursovaya-main\\MAUI\\MainPage.xaml.cs",
               "RelativeToolTip": "MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Boss\\Desktop\\MAUI\\MAUI\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\Users\\Boss\\Desktop\\MAUI-Kursovaya-main\\MAUI-Kursovaya-main\\MAUI\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Boss\\Desktop\\MAUI\\MAUI\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Boss\\Desktop\\MAUI-Kursovaya-main\\MAUI-Kursovaya-main\\MAUI\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
